@@ -21,3 +21,5 @@ He imagined a device called the **memex** that could:
 - **Too much information**: Even in 1945, he worried about information overload — a problem we still face today.  
 - **Design lesson**: Tools should match how people think and connect ideas, not just store data.  
 
+- **Abinet's Comment**: I like this article very much. it inspired the www as we know it today.
+- **Thank you**
